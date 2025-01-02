@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-"# Task Managaer"
+**Task Manager**
 =======
 # Task-Manager
 >>>>>>> update-readme
