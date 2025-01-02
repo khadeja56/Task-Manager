@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 **Task Manager**
-=======
 # Task-Manager
->>>>>>> update-readme
-from tasks import add_task, remove_task
+update-readme from tasks import add_task, remove_task
 
 tasks = []
 add_task(tasks, "Buy groceries")
